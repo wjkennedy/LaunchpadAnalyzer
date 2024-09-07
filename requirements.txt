@@ -1,0 +1,6 @@
+keyring
+launchpadlib
+streamlit 
+pandas 
+plotly
+matplotlib
